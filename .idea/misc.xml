@@ -3,8 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_accueil.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_activite_parametres.xml" value="0.25" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_grille_mode_infini.xml" value="0.33" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/activity_parametres.xml" value="0.3484375" />
         <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/fragment_dashboard.xml" value="0.2975630611372381" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/fragment_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/fragment_notifications.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/grille_mode_infini.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/grille_mot_du_jour.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/mode_verbum.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/parametre_verbum.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/reussite_mode_infini.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/layout/reussite_mode_jour.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Yanni/OneDrive/Documents/Verbum/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2975630611372381" />
       </map>
     </option>

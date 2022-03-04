@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Verbum">
         <activity
+            android:name=".Accueil"
+            android:exported="false" />
+        <activity
+            android:name=".choix_mode"
+            android:exported="false" />
+        <activity
+            android:name=".reussite_mot_du_jour"
+            android:exported="false" />
+        <activity
+            android:name=".reussite_mode_infini"
+            android:exported="false" />
+        <activity
+            android:name=".grille_mot_du_jour"
+            android:exported="false" />
+        <activity
+            android:name=".grille_mode_infini"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name">
